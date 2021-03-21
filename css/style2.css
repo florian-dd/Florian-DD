@@ -1,0 +1,97 @@
+
+p
+{
+    color:white;
+     
+}
+
+h1
+{
+    margin: 0;
+    color: white;
+}
+
+.main-nav li a
+{
+        color: white;
+        text-decoration: none;
+        padding: 5px 20px;
+        font-family:"Roboto", sans-serif;
+        font-size: 15px;
+}
+
+.main-nav Li.active a
+{
+    border: 100px solid rgb(110, 0, 253);
+}
+
+.main-nav li a:hover
+{
+    border: 1px solid rgb(8, 221, 36);
+}
+
+body
+{
+    margin: 0%;
+    padding: 0%;
+    background-image:url(../logo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    text-align: center;
+}
+
+html
+{
+    height: 100%;
+
+}
+
+li
+{
+    margin: 10px;
+
+}
+
+
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family:"Roboto", sans-serif;
+    font-size: 15px;
+}
+
+.main-nav a
+{
+    margin: 0%;
+}
+
+main-nav a:hover
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family:"Roboto", sans-serif;
+    font-size: 15px;
+}
+
+h3
+{
+    color: black;
+}
+
+a
+{
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 25px;
+    background-color:rgb(0, 255, 234)
+}
+
+a:hover
+{
+    background-color: lightseagreen;
+    b
+}
